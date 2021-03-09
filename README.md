@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/suvantoteemu/pipelines/_apis/build/status/tesuvant.pipelines-java?branchName=master)](https://dev.azure.com/suvantoteemu/pipelines/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
